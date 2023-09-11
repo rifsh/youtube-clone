@@ -1,0 +1,14 @@
+p {
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    height: 100vh;
+    margin: 0;
+    padding-top: 70px;
+    padding-left: 85px;
+    background-color: rgb(254, 254, 254);
+    padding-right: 30px;
+}
+button{
+    border: none;
+}
